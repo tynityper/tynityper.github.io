@@ -1,0 +1,15 @@
+baseURL = 'https://tynityper.io/'
+languageCode = 'zh-Hans'
+title = 'The Tyni Typer'
+theme = 'nostyleplease'
+
+hasCJKLanguage = true
+enableEmoji = true
+[permalinks]
+  "/" = ':sections/:slug/'
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+  hasCJKLanguage = true

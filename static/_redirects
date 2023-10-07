@@ -1,0 +1,3 @@
+/.well-known/webfinger https://s.tynityper.io/.well-known/webfinger 301
+/.well-known/nodeinfo https://s.tynityper.io/.well-known/nodeinfo 301
+/.well-known/host-meta https://s.tynityper.io/.well-known/host-meta 301
